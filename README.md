@@ -1,4 +1,4 @@
-# FBAudienceNetwork pod超时解决方案
+# FBAudienceNetwork （pod超时解决方案）
 镜像文件，避免翻墙、pod超时， 原文件地址为：https://developers.facebook.com/resources/FBAudienceNetwork-x.x.x.zip
 
 # 使用
