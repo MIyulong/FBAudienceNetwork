@@ -19,3 +19,4 @@
     
   },
 ```
+5. pod install, 直接安装即可，避免pod update导致cocoapods repo文件修复被覆盖
